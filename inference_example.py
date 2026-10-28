@@ -33,7 +33,7 @@ def main() -> int:
         )
         return 2
 
-    model = os.environ.get("OPENAI_MODEL", "gpt-6-luna")
+    model = os.environ.get("OPENAI_MODEL", "gpt-6")
     client = OpenAI()
     response = client.responses.create(model=model, input=prompt)
     print(response.output_text)
