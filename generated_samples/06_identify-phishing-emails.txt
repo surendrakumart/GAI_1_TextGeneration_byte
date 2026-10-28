@@ -1,0 +1,27 @@
+## Cybersecurity: A Beginner's Guide to Identifying Phishing Emails
+
+Phishing is a cyberattack in which criminals send fake emails pretending to be trusted organizations, such as banks, colleges, or online shopping platforms. Their goal is to trick people into revealing passwords, financial details, or other sensitive information.
+
+### Five Warning Signs of Phishing Emails
+
+**1. Suspicious Sender Address:** The sender's email address may contain misspellings or use a domain that differs from the organization's official domain.
+
+**2. Urgent or Threatening Messages:** Emails claiming your account will be blocked immediately unless you act are often designed to make you panic and act without thinking.
+
+**3. Unexpected Links or Attachments:** Suspicious links may lead to fake websites, while attachments may contain malware. Always be cautious with unexpected files.
+
+**4. Requests for Sensitive Information:** Legitimate organizations generally do not ask you to send passwords, PINs, or one-time passwords (OTPs) through email.
+
+**5. Spelling Errors and Unusual Formatting:** Poor grammar, strange greetings, inconsistent branding, or unusual formatting can indicate a fraudulent message, although professional-looking emails can also be phishing attempts.
+
+### Three Safety Tips
+
+**1. Verify Before Clicking:** Hover over links on a computer to inspect their destinations. Instead of clicking suspicious links, visit the organization's official website directly.
+
+**2. Never Share Sensitive Information:** Never disclose passwords or OTPs in response to unexpected emails. Enable multi-factor authentication to add another layer of security.
+
+**3. Report and Delete Suspicious Emails:** Use your email provider's phishing-reporting feature. If you are unsure whether a message is genuine, contact the organization through its official website or phone number.
+
+### Conclusion
+
+Phishing emails exploit trust, fear, and curiosity to steal information. By checking sender addresses, recognizing suspicious requests, and verifying links before clicking, anyone can reduce their risk of becoming a victim of phishing.

@@ -1,0 +1,26 @@
+## Seven-Day Beginner Study Plan for Learning Python
+
+| Day | Topic | Practical Exercise | Expected Outcome |
+|---|---|---|---|
+| **Day 1** | Introduction to Python, installation, variables, and data types | Install Python or use an online Python editor. Write a program that displays your name, age, and college using variables. | Understand Python's basic syntax, variables, and data types such as strings, integers, and floats. |
+| **Day 2** | Operators and User Input | Create a simple calculator that accepts two numbers and performs addition, subtraction, multiplication, and division. | Learn arithmetic operators, user input, and basic calculations. |
+| **Day 3** | Conditional Statements (`if`, `elif`, `else`) | Write a program that checks whether a number is positive, negative, or zero. Then create a simple grading system. | Make decisions in programs using conditions and comparison operators. |
+| **Day 4** | Loops (`for` and `while`) | Create a multiplication table generator and a number-guessing game using loops. | Understand repetition, loop conditions, and how to automate repetitive tasks. |
+| **Day 5** | Data Structures: Lists, Tuples, and Dictionaries | Create a student record program that stores names and marks, displays the records, and calculates the average marks. | Store, organize, retrieve, and manipulate collections of data. |
+| **Day 6** | Functions and Basic Error Handling | Write functions for calculating the area of a rectangle, checking even or odd numbers, and performing calculator operations. Handle invalid input using `try` and `except`. | Write reusable code, understand function parameters and return values, and handle common errors. |
+| **Day 7** | Mini-Project and Revision | Build a **Student Marks Management System** that accepts student names and marks, calculates averages, assigns grades, and displays results. Review concepts from Days 1–6. | Combine fundamental Python concepts to build a working project and strengthen problem-solving skills. |
+
+### Recommended Daily Routine
+
+Aim for **1–2 hours per day**:
+
+- **20 minutes:** Learn the day's concepts.
+- **30 minutes:** Follow examples and understand the code.
+- **40 minutes:** Write programs independently.
+- **10 minutes:** Review mistakes and revise.
+
+### Final Goal
+
+By the end of seven days, you should understand Python fundamentals and be able to build simple programs independently.
+
+**Most important tip:** Don't just watch tutorials or copy code. Type the programs yourself, experiment with different inputs, and try solving small problems without looking at the solution first.

@@ -1,0 +1,73 @@
+## Mathematical Explanation: Why Is Dividing a Nonzero Number by Zero Undefined?
+
+Division is the process of determining how many equal groups of a certain size can be made, or which number multiplied by the divisor gives the original number. Dividing a nonzero number by zero is undefined because no number can satisfy the required multiplication relationship.
+
+### 1. A Real-World Example: Sharing Chocolates 🍫
+
+Imagine you have **6 chocolates** and want to share them equally among 2 friends.
+
+Each friend receives 3 chocolates.
+
+Now imagine sharing those same 6 chocolates among 3 friends. Each friend receives 2 chocolates.
+
+But what happens if you try to share 6 chocolates among **zero friends**?
+
+There is nobody to receive the chocolates! You cannot determine a meaningful number of chocolates per friend because there are no recipients.
+
+This illustrates why division by zero does not work as ordinary division does.
+
+### 2. Think About Multiplication
+
+Division and multiplication are closely connected.
+
+For example:
+
+- 12 ÷ 3 = 4, because 4 × 3 = 12.
+- 10 ÷ 2 = 5, because 5 × 2 = 10.
+
+Using the same relationship, suppose:
+
+6 ÷ 0 = x
+
+This would require:
+
+x × 0 = 6
+
+But any number multiplied by zero equals zero.
+
+x × 0 = 0
+
+Therefore, **there is no number x that satisfies the equation**. That is why dividing 6 by zero is undefined.
+
+### 3. What About Zero Divided by Zero?
+
+Consider:
+
+0 ÷ 0 = x
+
+Using multiplication, we would need:
+
+x × 0 = 0
+
+This equation is true for every number x, because any number multiplied by zero equals zero.
+
+For example:
+- 5 × 0 = 0
+- 100 × 0 = 0
+- (−7) × 0 = 0
+
+There is no unique answer. Since division should determine a specific result, **zero divided by zero is also undefined**.
+
+### 4. The Key Difference
+
+| Division | What happens? |
+|---|---|
+| 6 ÷ 2 = 3 | One unique answer exists. |
+| 6 ÷ 0 | No number satisfies the required multiplication relationship. |
+| 0 ÷ 0 | Every number satisfies the multiplication relationship, so there is no unique answer. |
+
+### Conclusion
+
+Dividing a nonzero number by zero is undefined because multiplication cannot produce a nonzero number when one factor is zero. Meanwhile, zero divided by zero has no unique answer.
+
+**Remember:** You can multiply any number by zero and get zero, but you cannot divide a nonzero number by zero and obtain a valid numerical answer.

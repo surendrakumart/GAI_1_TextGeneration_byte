@@ -1,0 +1,1 @@
+A university library introduced a digital reservation system to reduce queues and help students find study spaces. Student satisfaction improved during the first month, although some users experienced mobile interface difficulties. The library plans to improve accessibility, gather feedback, and assess its long-term effectiveness in reducing waiting times.

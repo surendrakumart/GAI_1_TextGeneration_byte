@@ -1,0 +1,45 @@
+## Logical Reasoning: How to Prioritize Three Tasks Due Tomorrow
+
+When a student has three tasks due tomorrow, the best approach is to consider **deadlines, importance, and estimated effort** before deciding what to complete first. The goal is to finish all three tasks on time without sacrificing quality.
+
+### Step 1: List the Tasks
+
+Suppose the student has the following assignments:
+
+| Task | Importance | Estimated Time | Difficulty |
+|---|---|---|---|
+| Mathematics assignment | High — carries significant marks | 2 hours | Difficult |
+| Programming exercise | High — required for practical assessment | 1 hour | Moderate |
+| History report | Medium — fewer marks | 3 hours | Moderate |
+
+All three tasks are due tomorrow, but they differ in importance and the time needed to complete them.
+
+### Step 2: Evaluate the Three Factors
+
+**1. Deadlines:** Since all tasks are due tomorrow, the student should check whether any task has an earlier submission time. A task due first should receive priority if the others have later deadlines.
+
+**2. Importance:** Tasks worth more marks or essential for passing an assessment should generally receive greater attention. However, a less important task should not be ignored if it takes a long time to complete.
+
+**3. Estimated Effort:** The student should estimate how long each task will take and identify which tasks require uninterrupted concentration. Shorter tasks may be completed early to reduce the workload, provided this does not delay more urgent or important work.
+
+### Step 3: Create a Practical Schedule
+
+Assuming all three tasks have the same deadline and the student has six hours available, a possible schedule is:
+
+| Time | Activity | Duration |
+|---|---|---|
+| 9:00–11:00 AM | Mathematics assignment | 2 hours |
+| 11:00 AM–12:00 PM | Programming exercise | 1 hour |
+| 12:00–12:30 PM | Break | 30 minutes |
+| 12:30–3:30 PM | History report | 3 hours |
+| 3:30–4:00 PM | Review and submit all tasks | 30 minutes |
+
+This schedule gives the difficult, high-priority mathematics assignment attention first, completes the shorter programming exercise next, and reserves sufficient time for the history report.
+
+### Step 4: Review and Adjust
+
+If the mathematics assignment takes longer than expected, the student should reassess the remaining schedule. They could reduce unnecessary activities, adjust the time spent on less important tasks, or seek help when appropriate. They should also reserve time to check their work and confirm that every assignment has been submitted successfully.
+
+### Conclusion
+
+The student should prioritize tasks by considering **which deadlines are most urgent, which tasks matter most, and how much time each requires**. A realistic schedule, regular progress checks, and a small time buffer can help ensure that all three tasks are completed before the deadline.

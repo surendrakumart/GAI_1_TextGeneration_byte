@@ -1,0 +1,51 @@
+## Critical Thinking: Evaluating a Social Media Claim About Concentration
+
+A social media post claims that a new scientific study proves drinking a particular beverage doubles concentration. Before believing or sharing this claim, readers should evaluate the study's reliability, methodology, and evidence.
+
+### Questions to Ask Before Believing the Claim
+
+**1. Who conducted the study?**
+- Was the research conducted by qualified scientists or a reputable research institution?
+- Did the researchers have any financial connections to the beverage's manufacturer?
+
+**2. Where was the study published?**
+- Was it published in a reputable, peer-reviewed scientific journal?
+- Can the original research paper be accessed and examined, rather than relying only on a social media post?
+
+**3. How many people participated?**
+- Was the study conducted with a sufficiently large group of participants?
+- Were the participants representative of the people to whom the claim is being applied?
+
+**4. Was there a control group?**
+- Did researchers compare people who drank the beverage with people who consumed a placebo or did not drink it?
+- Were participants randomly assigned to groups to reduce bias?
+
+**5. How was concentration measured?**
+- Did researchers use objective cognitive tests or rely on participants' personal opinions?
+- What does "doubles concentration" actually mean, and how was the improvement calculated?
+
+**6. Were other factors considered?**
+- Did researchers account for sleep, diet, stress, caffeine intake, and other factors that might affect concentration?
+- Could these factors explain the observed improvement instead of the beverage itself?
+
+**7. Was the result statistically and practically significant?**
+- Was the improvement statistically significant, or could it have occurred by chance?
+- Did the study show a meaningful improvement in everyday concentration, rather than just a small change on a particular test?
+
+**8. Have other researchers confirmed the findings?**
+- Have independent studies produced similar results?
+- Can the findings be reproduced in different populations and settings?
+
+**9. Does the headline accurately represent the study?**
+- Does the original research actually support the claim that concentration doubles?
+- Is the post exaggerating a limited finding or presenting a correlation as proof of causation?
+
+**10. Are the limitations acknowledged?**
+- Did the researchers identify limitations, such as a small sample size, a short study duration, or uncertain long-term effects?
+- Does the study support a broad claim, or only a conclusion about a specific group under specific conditions?
+
+### Conclusion
+
+A social media claim should not be accepted simply because it refers to a scientific study. Readers should examine the original research, evaluate its methodology, consider possible bias, and look for independent confirmation.
+
+**The key principle of critical thinking is to follow the evidence rather than the headline.** A study may provide evidence that a beverage improves concentration under certain conditions, but that does not automatically prove that it doubles concentration for everyone.

@@ -1,0 +1,17 @@
+## Understanding Artificial Intelligence, Machine Learning, and Deep Learning
+Artificial Intelligence (AI), Machine Learning (ML), and Deep Learning (DL) are related technologies that enable computers to perform tasks that normally require human intelligence. However, they differ in how they work.
+### 1. Artificial Intelligence (AI)
+**What it means:** AI is the broad field of creating machines that can perform tasks such as reasoning, problem-solving, and decision-making.
+**Practical example:** A chess-playing computer uses predefined rules and search algorithms to evaluate possible moves and choose a good move.
+### 2. Machine Learning (ML)
+**What it means:** ML is a branch of AI that allows computers to learn patterns from data and make predictions without explicitly programming every rule.
+**Practical example:** An email spam filter learns from examples of spam and legitimate emails to classify new messages automatically.
+### 3. Deep Learning (DL)
+**What it means:** DL is a branch of ML that uses multi-layered artificial neural networks to learn complex patterns, often from large amounts of data.
+**Practical example:** A facial recognition system uses a deep neural network to identify patterns in facial images and help determine whether two images show the same person.
+### How Are They Related?
+Think of them as nested circles:
+- **AI** is the largest field.
+- **ML** is a subset of AI.
+- **DL** is a subset of ML.
+**In summary:** AI is the overall goal of making computers perform intelligent tasks, ML enables computers to learn from data, and DL uses multi-layered neural networks to learn particularly complex patterns.

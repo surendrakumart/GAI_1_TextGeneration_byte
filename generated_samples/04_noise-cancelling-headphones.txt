@@ -1,0 +1,11 @@
+### How Do Noise-Cancelling Headphones Work?
+Noise-cancelling headphones reduce unwanted background sounds, helping people enjoy music or concentrate in noisy environments.
+**Simple Analogy:** Imagine two people pushing a swing in opposite directions at exactly the right moments. Their pushes can cancel each other out. Active noise-cancelling headphones use a similar idea with sound waves.
+### Step-by-Step Explanation
+**1. Detect Outside Noise:** Tiny microphones built into the headphones pick up surrounding sounds, such as traffic, airplane engines, or the hum of an air conditioner.
+**2. Create Opposite Sound Waves:** The headphones' electronic system analyses the noise and generates another sound wave with an opposite pattern. This is called *anti-noise*.
+**3. Cancel the Noise:** When the original sound wave and the anti-noise wave meet, they can cancel each other out through a process called *destructive interference*. This reduces the amount of unwanted sound reaching your ears.
+**4. Let You Hear More Clearly:** With less background noise, music, podcasts, and other audio become easier to hear without turning the volume up as much.
+### An Important Difference
+Noise-cancelling headphones also use physical materials to block some sounds. This is called *passive noise isolation*. Active noise cancellation is particularly effective against steady, low-frequency sounds, such as engine hum, but it cannot eliminate every sound completely.
+**In short:** Noise-cancelling headphones use microphones, electronics, and carefully generated opposite sound waves to reduce unwanted noise, making listening more comfortable in noisy surroundings.
