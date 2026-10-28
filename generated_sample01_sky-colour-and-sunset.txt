@@ -1,6 +1,0 @@
-### Why Is the Sky Blue During the Day and Reddish-Orange During Sunset?
-Sunlight looks white, but it contains many different colours, including red, orange, yellow, green, blue, and violet.
-**During the day:** When sunlight enters Earth's atmosphere, it collides with tiny molecules in the air. These molecules scatter blue light more strongly than most other visible colours, spreading it across the sky. That's why we see a blue sky.
-**During sunset:** Sunlight travels through a much longer stretch of the atmosphere because the Sun is near the horizon. Much of the blue light gets scattered away before reaching our eyes. Red and orange light travel through more of the atmosphere and are more likely to reach us directly, making the sky appear reddish-orange.
-**Simple analogy:** Imagine shining a torch through a room filled with dust. The light spreads as it hits the dust particles. Similarly, air molecules scatter sunlight, changing the colours we see depending on the Sun's position.
-**In short:** The sky appears blue during the day because blue light scatters widely, while sunsets look reddish-orange because sunlight travels farther through the atmosphere, leaving more red and orange light to reach our eyes.
