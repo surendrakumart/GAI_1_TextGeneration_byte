@@ -1,0 +1,39 @@
+01. Explain why the sky appears blue during the day and reddish-orange during sunset. Write for a student with no science background.
+
+02. Environmental Awareness: Write a short article explaining three practical ways college students can reduce plastic waste on campus.
+
+03. Space Exploration: Imagine humans discover microbial life on Mars. Describe three scientific investigations researchers would conduct next.
+
+04. Everyday Science: Explain how noise-cancelling headphones work using a simple analogy and a step-by-step explanation.
+
+05. Artificial Intelligence: Explain the difference between artificial intelligence, machine learning, and deep learning using one practical example for each.
+
+06. Cybersecurity: Write a beginner-friendly guide to identifying phishing emails. Include five warning signs and three safety tips.
+
+07. Future Technology: Describe how personal AI assistants might change university life by 2035. Discuss three benefits and two potential drawbacks.
+
+08. Programming: Explain recursion to a beginner using a real-world analogy, a simple Python example, and a description of the base case.
+
+09. Logical Reasoning: A student has three tasks due tomorrow, each requiring different amounts of time. Explain how the student could prioritize them using deadlines, importance, and estimated effort.
+
+10. Decision-Making: Compare learning programming through online videos with learning through hands-on projects. Present advantages, disadvantages, and a balanced recommendation.
+
+11. Mathematical Explanation: Explain why dividing a nonzero number by zero is undefined. Use an intuitive example rather than relying only on formulas.
+
+12. Critical Thinking: A social media post claims that a new study proves drinking a particular beverage doubles concentration. List the questions a reader should ask before believing the claim.
+
+13. Microfiction: Write a science-fiction story of approximately 150 words in which a robot discovers an old handwritten letter that changes its understanding of humanity.
+
+14. World-Building: Invent a city where people communicate through colors instead of spoken language. Describe its culture, transportation, and one communication problem.
+
+15. Creative Dialogue: Write a humorous conversation between a smartphone with 1% battery and a power bank that refuses to cooperate.
+
+16. Alternative History: Imagine that humans developed practical solar-powered aircraft a century earlier than they actually did. Describe three possible consequences without claiming that the scenario is historical fact.
+
+17. Professional Email: Write a polite email to a professor requesting an extension on an assignment because of overlapping academic deadlines. Keep it respectful and concise.
+
+18. Summarization: Summarize this passage in no more than 50 words: “A university library introduced a digital reservation system to reduce queues and help students find available study spaces. During its first month, student satisfaction increased, but some users reported difficulties with the mobile interface. The library plans to improve accessibility, collect feedback, and evaluate whether the system continues to reduce waiting times.”
+
+19. Structured Output: Create a seven-day beginner study plan for learning Python. Present it as a table with the day, topic, practical exercise, and expected outcome.
+
+20. Audience Adaptation: Explain cloud computing twice: first to a ten-year-old child, then to a first-year computer science student. Keep the underlying explanation accurate while adjusting the technical detail.
